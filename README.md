@@ -1,5 +1,5 @@
 # CyberPHP: The Fastest and Smallest PHP Framework
-![Performance](https://github.com/eoioer/CyberPHP/blob/main/performance.jpg?raw=true))
+![Performance](https://github.com/eoioer/CyberPHP/blob/main/performance.jpg?raw=true)
 
 
 Suitable for individual developers to manage multiple regular applications. 
